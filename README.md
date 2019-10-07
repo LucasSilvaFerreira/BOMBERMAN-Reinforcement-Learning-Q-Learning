@@ -50,6 +50,6 @@ Result after __20000__ episodes .
 <img src='https://github.com/LucasSilvaFerreira/Q-Learning_BOMBERMAN/blob/master/20000_episode__animated.gif'>  
 
 
-Result after __980000__ episodes .  
+Result after __980000__ episodes (The convergence was a lot early but I post the last episode).  
 
 <img src='https://github.com/LucasSilvaFerreira/Q-Learning_BOMBERMAN/blob/master/980000_episode__animated.gif'>  
