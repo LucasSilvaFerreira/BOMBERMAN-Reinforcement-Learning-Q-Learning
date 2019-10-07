@@ -1,8 +1,11 @@
 # Q-Learning_BOMBERMAN
-Using Reinforcment Q-learning to teach the agent how to play a simple Video game BomberMan clone   
+Using Reinforcment Q-learning to teach a AI agent how to play from scratch a simple a BomberMan game clone   
 
 This is a simple Q-learning algorythm in python to learn how to play a generic bomberman clone.  
-The bomberman enviroment was created in pure python and the sprites are created by the user __VOXEL__ to the http://ludumdare.com/compo/2015/05/05/minild-59-swapshop/ gamejam.  
+
+The bomberman enviroment and its render were created in pure python.  
+The sprites were created by the user __VOXEL__ and released at http://ludumdare.com/compo/2015/05/05/minild-59-swapshop/ gamejam.  
+
 
 
 
