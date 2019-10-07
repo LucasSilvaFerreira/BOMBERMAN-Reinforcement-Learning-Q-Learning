@@ -1,9 +1,10 @@
 # Q-Learning_BOMBERMAN
-Using Reinforcment Q-learning to teach a AI agent how to play from scratch a simple a BomberMan game clone   
+Using Reinforcment Q-learning to teach an AI agent how to play from scratch a simple  BomberMan game clone   
 
-This is a simple Q-learning algorythm in python to learn how to play a generic bomberman clone.  
+This is a simple Q-learning algorythm in python to teach an AI  how to play a generic bomberman clone.  
 
 The bomberman enviroment and its render were created in pure python.  
+
 The sprites were created by the user __VOXEL__ and released at http://ludumdare.com/compo/2015/05/05/minild-59-swapshop/ gamejam.  
 
 
@@ -14,7 +15,7 @@ The sprites were created by the user __VOXEL__ and released at http://ludumdare.
   - A bomb takes 3 turns to explode.  
   - A bomb always explode in a cross shaped area (x+1, x-1, y+1 and y-1)
   - A bomb destroy  wall blocks.  
-  - A bomb kills agent.  
+  - A bomb kill the Agent case it is in the area.  
   - The max number of turns to finish the game is __100__.
   
  ## REWARD function
