@@ -42,7 +42,7 @@ The sprites were created by the user __VOXEL__ and released at http://ludumdare.
 
 __self.value_after__: Is a delta generated using the number of blocks reamaning in the scenario before and after the agent perform a given action.  
 __self.Turn__: Current turn.  
-__round(100)__: Total Number of turns.  
+__float(100)__: Total Number of turns.  
 
 
 ------
