@@ -18,6 +18,18 @@ The sprites were created by the user __VOXEL__ and released at http://ludumdare.
   - A bomb kill the Agent case it is in the area.  
   - The max number of turns to finish the game is __100__.
   
+ ------
+ 
+ 
+ ## Q-learning function
+ 
+ 
+
+ 
+ (source: https://blog.goodaudience.com/deep-q-learning-a-reinforcement-learning-algorithm-d1a93b754535)
+ 
+ 
+ -------
  ## REWARD function
 
      def get_reward(self):
