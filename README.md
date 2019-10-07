@@ -9,7 +9,7 @@ The bomberman enviroment was created in pure python and the sprites are created 
 ## Enviroment Rules.
 
   - A bomb takes 3 turns to explode.  
-  - A bomba always explode in a cross shaped area (x+1, x-1, y+1 and y-1)
+  - A bomb always explode in a cross shaped area (x+1, x-1, y+1 and y-1)
   - A bomb destroy  wall blocks.  
   - A bomb kills agent.  
   - The max number of turns to finish the game is __100__.
