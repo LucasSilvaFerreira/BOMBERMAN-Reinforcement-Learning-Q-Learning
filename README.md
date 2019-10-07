@@ -28,15 +28,15 @@ The sprites were created by the user __VOXEL__ and released at http://ludumdare.
  
 
 
-__self.value_after__: Is a delta generated using the number of blocks reamaning in the scenario before and after the agent perform a give action.  
+__self.value_after__: Is a delta generated using the number of blocks reamaning in the scenario before and after the agent perform a given action.  
 __self.Turn__: Current turn.  
 __round(100)__: Total Number of turns.  
 
 
 ------
-The reward is bigger case the agent destroy more blocks in a early game phase. (This function forces the Agent to focused in destroy blocks, instead to spams bombs randomly in empty spaces)
+The reward is bigger case the agent destroy more blocks in a early game phase. (This reward function forces the Agent to focused in destroy blocks, instead to spams bombs randomly in empty spaces)
 
-If the agent doesn't destroy any block it will be penalized (negative reward) in a time manner (this will become  more expensive each turn).  
+If the agent doesn't destroy any block it will be penalized (negative reward) in a time manner (Not destroying blocks will become  more expensive each turn).  
 
 
 -----
