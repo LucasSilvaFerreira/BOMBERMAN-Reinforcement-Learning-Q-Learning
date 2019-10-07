@@ -23,32 +23,28 @@ The bomberman enviroment was created in pure python and the sprites are created 
             r = -1 * (self.Turn / float(100))
         return r
  
-
+-------
 __self.value_after__: Is a delta generated using the number of blocks reamaning in the scenario before and after the agent perform a give action.  
 __self.Turn__: Current turn.  
 __round(100)__: Total Number of turns.  
-
-
-The   
-
+------
 The reward is bigger case the agent destroy more blocks in a early game phase. (This function forces the Agent to focused in destroy blocks, instead to spams bombs randomly in empty spaces)
-
-
 
 If the agent doesn't destroy any block it will be penalized (negative reward) in a time manner (this will become  more expensive each turn).  
 
 
-
+-----
 
 Result after __0__ episodes .   
 
 <img src='https://github.com/LucasSilvaFerreira/Q-Learning_BOMBERMAN/blob/master/0_episode__animated.gif'>  
 
-
+------
 Result after __20000__ episodes .   
 
 <img src='https://github.com/LucasSilvaFerreira/Q-Learning_BOMBERMAN/blob/master/20000_episode__animated.gif'>  
 
+-----
 
 Result after __980000__ episodes (The convergence was a lot early but I posted the last episode).  
 
