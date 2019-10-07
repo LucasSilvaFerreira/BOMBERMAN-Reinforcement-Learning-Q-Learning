@@ -17,7 +17,7 @@ The sprites were created by the user __VOXEL__ and released at http://ludumdare.
   - A bomb kills agent.  
   - The max number of turns to finish the game is __100__.
   
- ## Loss function
+ ## REWARD function
 
      def get_reward(self):
         if (self.value_after) > 0:
