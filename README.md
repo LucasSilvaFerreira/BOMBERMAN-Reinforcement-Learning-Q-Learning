@@ -23,7 +23,7 @@ The sprites were created by the user __VOXEL__ and released at http://ludumdare.
  
  ## Q-learning function
  
-https://raw.githubusercontent.com/LucasSilvaFerreira/BOMBERMAN-Reinforcement-Learning-Q-Learning/master/1_fpRuA-X7wGchI1I5gL19uA.png
+<img src=https://raw.githubusercontent.com/LucasSilvaFerreira/BOMBERMAN-Reinforcement-Learning-Q-Learning/master/1_fpRuA-X7wGchI1I5gL19uA.png>
  
  (source: https://blog.goodaudience.com/deep-q-learning-a-reinforcement-learning-algorithm-d1a93b754535)
  
