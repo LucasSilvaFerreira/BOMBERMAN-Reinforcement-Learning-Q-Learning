@@ -23,10 +23,13 @@ The bomberman enviroment was created in pure python and the sprites are created 
             r = -1 * (self.Turn / float(100))
         return r
  
--------
+
+
 __self.value_after__: Is a delta generated using the number of blocks reamaning in the scenario before and after the agent perform a give action.  
 __self.Turn__: Current turn.  
 __round(100)__: Total Number of turns.  
+
+
 ------
 The reward is bigger case the agent destroy more blocks in a early game phase. (This function forces the Agent to focused in destroy blocks, instead to spams bombs randomly in empty spaces)
 
